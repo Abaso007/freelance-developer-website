@@ -1,6 +1,4 @@
-import React from 'react';
 import PropTypes from 'prop-types';
-//import Link from "next/link";
 import { Link } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Drawer from '@mui/material/Drawer';
